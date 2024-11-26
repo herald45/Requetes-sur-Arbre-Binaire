@@ -1,0 +1,24 @@
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:0:test_sum_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:0:test_sum_query1 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:0:test_sum_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:3:test_sum_query4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:3:test_sum_query4 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:3:test_sum_query4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:4:test_sum_update1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:4:test_sum_update1 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:4:test_sum_update1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:6:test_sum_update3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:6:test_sum_update3 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:6:test_sum_update3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:8:test_max_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:8:test_max_query1 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:8:test_max_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:10:test_max_query3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:10:test_max_query3 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:10:test_max_query3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:12:test_mss_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:12:test_mss_query1 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:12:test_mss_query1.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Start test TestQueries:14:test_mss_query3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: Test TestQueries:14:test_mss_query3 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#01 I: End test TestQueries:14:test_mss_query3.

@@ -1,0 +1,32 @@
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:1:test_sum_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Test TestQueries:1:test_sum_query2 has failed.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: not equal in test TestQueries:1:test_sum_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: 
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:1:test_sum_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:2:test_sum_query3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:2:test_sum_query3 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:2:test_sum_query3.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:5:test_sum_update2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Test TestQueries:5:test_sum_update2 has failed.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: not equal in test TestQueries:5:test_sum_update2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 E: 
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:5:test_sum_update2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:7:test_sum_update4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:7:test_sum_update4 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:7:test_sum_update4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:9:test_max_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:9:test_max_query2 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:9:test_max_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:11:test_max_query4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:11:test_max_query4 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:11:test_max_query4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:13:test_mss_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:13:test_mss_query2 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:13:test_mss_query2.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Start test TestQueries:15:test_mss_query4.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: Test TestQueries:15:test_mss_query4 is successful.
+2024-04-23T10:50:43+00:00 MacBook-Air-de-HERALD.local#02 I: End test TestQueries:15:test_mss_query4.

@@ -1,0 +1,24 @@
+# dune exec devoir_de_programmation -- -data '1 2 3 2' -problem maxocc -print -query 0 1 -query 0 3 -update 3 0 -print -query 0 3
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/herald/.cache/dune/db
+# Workspace root: "/Users/herald/Desktop/COURS/L2/S4/Programation
+# fonctionnelle/Sujet du devoir de programmation 2023-2024-20240403/squelette"
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/herald/Desktop/COURS/L2/S4/Programation fonctionnelle/Sujet du devoir de programmation 2023-2024-20240403/squelette/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/herald/.opam/default/bin/ocamlc.opt -config > /var/folders/y0/hd2ns8qn0rbfsz_ctl3h36q00000gn/T/dune_0d47ac_output
